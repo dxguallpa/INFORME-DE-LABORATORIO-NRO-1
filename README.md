@@ -99,46 +99,79 @@ https://www.tinkercad.com/things/aZAuB0UUUwd-terrific-wolt-stantia/editel?sharec
 
 • VALORES SIMULADOS:
 
-Voltaje:
+VOLTAJE:
+
+Voltaje R1
 
 ![image](https://user-images.githubusercontent.com/117873786/201837022-daf2451d-15c5-43e0-994d-59000e2c06cd.png)
 
-![image](https://user-images.githubusercontent.com/117873786/201836913-b6cd6506-e8ad-4e9c-b4b1-7ecb1cc02de8.png)
+Voltaje R2
 
 ![image](https://user-images.githubusercontent.com/117873786/201837165-1db0a2d4-6eee-42c7-ba5e-dbb8189e6eed.png)
 
-![image](https://user-images.githubusercontent.com/117873786/201837382-ac02d047-37e0-4259-978d-1c849b404354.png)
+Voltaje R3
+
+![image](https://user-images.githubusercontent.com/117873786/201836913-b6cd6506-e8ad-4e9c-b4b1-7ecb1cc02de8.png)
+
+Voltaje R4
 
 ![image](https://user-images.githubusercontent.com/117873786/201838025-6ef1e068-381f-4bee-9d51-557d86886868.png)
 
-Resistencia:
+Voltaje R5
+
+![image](https://user-images.githubusercontent.com/117873786/201837382-ac02d047-37e0-4259-978d-1c849b404354.png)
+
+
+RESISTENCIA:
+
+Resistencia 1
 
 ![image](https://user-images.githubusercontent.com/117873786/201838587-b77508fb-0298-46e3-9efb-267af1e4af13.png)
 
-![image](https://user-images.githubusercontent.com/117873786/201838681-e24c6575-2721-4b7b-86d0-cd12f85242f9.png)
-
-![image](https://user-images.githubusercontent.com/117873786/201839601-83bdf87f-3c13-49c5-8ecd-198d5fe9719e.png)
+Resistencia 2
 
 ![image](https://user-images.githubusercontent.com/117873786/201839725-ba71767e-efe2-4bca-82c1-e4a5facec5bd.png)
 
+Resistencia 3
+
+![image](https://user-images.githubusercontent.com/117873786/201838681-e24c6575-2721-4b7b-86d0-cd12f85242f9.png)
+
+Resistencia 4
+
+![image](https://user-images.githubusercontent.com/117873786/201839601-83bdf87f-3c13-49c5-8ecd-198d5fe9719e.png)
+
+Resistencia 5
+
 ![image](https://user-images.githubusercontent.com/117873786/201840252-774d9d8a-27db-4223-99b0-55fd4bf88f6f.png)
 
-Intensidad de corriente electrica: 
+
+INTENSIDAD DE CORRIENTE ELÉCTRICA:
+
+
+Intensidad 1
 
 ![image](https://user-images.githubusercontent.com/117873786/201842909-a1340efb-960b-472c-82ae-44c4766c0271.png)
 
+Intensidad 2
+
 ![image](https://user-images.githubusercontent.com/117873786/201969850-f9990a59-84b5-45d4-8166-f923a32b8e52.png)
+
+Intensidad 3
 
 ![image](https://user-images.githubusercontent.com/117873786/201967385-32cdaf71-9acd-4839-b0f9-694a70f00f0c.png)
 
+Intensidad 4
+
 ![image](https://user-images.githubusercontent.com/117873786/201967515-d5af192c-395d-43a0-a591-ca6a0ace6165.png)
+
+Intensidad 5
 
 ![image](https://user-images.githubusercontent.com/117873786/201967577-c40aea8f-01b8-4463-b239-71d91e0c30b4.png)
 
 
 • CALCULO DE LAS TABLAS:
 
-![image](https://user-images.githubusercontent.com/117873786/201921398-21e5974b-3b98-417e-92c5-4ea8d5baca9c.png)
+![image](https://user-images.githubusercontent.com/117873786/201996130-0eb7bd32-edf2-4ee5-a57b-187af995da73.png)
 
 
 Malla 1
