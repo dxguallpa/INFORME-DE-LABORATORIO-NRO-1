@@ -4,7 +4,7 @@ INTEGRANTES:
 
 Joshua Rivera
 
-Danny GUallpa
+Danny Guallpa
 
 Juan Salazar
 
@@ -168,19 +168,21 @@ CALCULOS TABLA 1
 
 Aplicando la ley de Ohm para hallar los voltajes. V=I*R
 
-![image](https://user-images.githubusercontent.com/117873786/201916087-d43ea4ca-0ab5-457a-bcc9-437dca7e1e5a.png)
+![image](https://user-images.githubusercontent.com/117873786/201930945-9774e62e-7c3c-4ff1-b206-ac0dfa4b7388.png)
 
+
+Porcentaje de error en los voltajes
+
+
+![image](https://user-images.githubusercontent.com/117873786/201941327-d0df65a8-b37a-4839-a88b-69152c0709a9.png)
 
 
 Verificar si se cumple la LKV
 Subida de tensión (signo +) y caída de tensión (signo -)
 
 
-Trayectoria 1
+![image](https://user-images.githubusercontent.com/117873786/201947384-f688488c-c7ef-4aa4-aeba-85412748e42f.png)
 
-Trayectoria 2
-
-Trayectoria 3
 
 Verificar LKC
 
@@ -188,16 +190,31 @@ Todas las corrientes que ingresan son iguales a las que salen
 
 Nodo 1
 
+![image](https://user-images.githubusercontent.com/117873786/201931098-4abe04c6-b31b-4ee0-b62d-d7b69c63ae08.png)
 
 Nodo 2
 
+![image](https://user-images.githubusercontent.com/117873786/201931290-6918d21b-f317-488a-bfbd-e47ae9bf3ea9.png)
 
+PORCENTAJE DE INTENSIDADES
+
+![image](https://user-images.githubusercontent.com/117873786/201945027-cea919e1-a342-4f96-b0eb-2f545ae2135a.png)
+
+TABLA DE DATOS:
+
+![image](https://user-images.githubusercontent.com/117873786/201947225-c4b18027-f28a-4e4c-9a0a-aac7295cbdb6.png)
+
+
+
+VIDEO
+
+https://drive.google.com/drive/folders/10qLzv9u7DETVaSKIMpnwDEa3PUO70hnT?usp=share_link
 
 
 CONCLUSIONES
 
 
-Se logro demostrar en la práctica las dos leyes de Kirchhoff: las leyes de voltaje y corriente en los circuitos en cuestión; para posteriormente aplicar el calculo con las leyes de ohm.
+Se logro demostrar en la práctica las dos leyes de Kirchhoff: las leyes de voltaje y corriente en los circuitos; para posteriormente aplicar el calculo con las leyes de ohm.
 
 En un circuito en serie, la corriente de cada elemento es la misma porque sigue una sola dirección, mientras que el voltaje es diferente, la suma algebraica de la fuente y la caída de voltaje también es siempre cero. .
 
