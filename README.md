@@ -88,6 +88,7 @@ La resistencia se mide en Ohms y su símbolo es la letra griega omega Ω.
 
 1. Arme el circuito que se muestra en la figura 1.1 en Thinkercad.
 
+
 ![image](https://user-images.githubusercontent.com/117873786/201835550-69d03fb8-77ee-4851-8d28-857d8b539670.png)
 
 
@@ -95,7 +96,12 @@ La resistencia se mide en Ohms y su símbolo es la letra griega omega Ω.
 
 ![image](https://user-images.githubusercontent.com/117873786/201836344-476bfbd7-931b-45c2-8a0c-41e91db82b34.png)
 
+
 https://www.tinkercad.com/things/aZAuB0UUUwd-terrific-wolt-stantia/editel?sharecode=IApNoluStaCLljA9OYgomRn8EdBOWdUkUO37gJcPg4o
+
+
+2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
+
 
 • VALORES SIMULADOS:
 
@@ -176,62 +182,85 @@ Intensidad 5
 
 Malla 1
 
-![image](https://user-images.githubusercontent.com/117873786/201915213-5f26639b-33fe-47c3-a627-0384181d173f.png)
+![image](https://user-images.githubusercontent.com/117873786/202017696-f4606a2d-b00a-43a1-a99a-e514aa56f335.png)
+
 
 Malla 2
 
-![image](https://user-images.githubusercontent.com/117873786/201915362-0f790e46-7111-4c80-bbdf-a2528596d108.png)
+![image](https://user-images.githubusercontent.com/117873786/202017747-ebca2289-5419-41fc-9dbb-f79384f2468a.png)
+
 
 Se hallan los valores de I1 e I2
 
-![image](https://user-images.githubusercontent.com/117873786/201915675-3cf56b74-d389-4e3f-b6a9-eadf3783edb7.png)
-
+![image](https://user-images.githubusercontent.com/117873786/202017998-4fe9d4f3-1938-4650-a471-81abe6ad18f2.png)
 
 Sustituyo (3) en (2)
 
-![image](https://user-images.githubusercontent.com/117873786/201915786-63ac968c-8e17-4a88-bd0c-ecd7e6f797b5.png)
-
+![image](https://user-images.githubusercontent.com/117873786/202018188-4a5f3abc-9974-49a9-a4f5-7c064ae7b8e1.png)
 
 Reemplazando en I2 en 3
 
-![image](https://user-images.githubusercontent.com/117873786/201915924-a52caeee-c483-42ab-8b78-17b4f18aa344.png)
+![image](https://user-images.githubusercontent.com/117873786/202023795-7515f030-25c6-4d97-9ee7-145fc2bab8be.png)
 
-
-CALCULOS TABLA 1
 
 Aplicando la ley de Ohm para hallar los voltajes. V=I*R
 
-![image](https://user-images.githubusercontent.com/117873786/201930945-9774e62e-7c3c-4ff1-b206-ac0dfa4b7388.png)
+![image](https://user-images.githubusercontent.com/117873786/202023939-45ded737-da92-403b-8739-291f0f93145b.png)
 
 
 Porcentaje de error en los voltajes
 
+![image](https://user-images.githubusercontent.com/117873786/202024167-88a8521a-5e5f-4038-8174-4ad6a72ce398.png)
 
-![image](https://user-images.githubusercontent.com/117873786/201941327-d0df65a8-b37a-4839-a88b-69152c0709a9.png)
 
 
-Verificar si se cumple la LKV
+• Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+
+
+
+3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,
+considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
+signo negativo. Anote los resultados en la tabla 1.2.
+
+• Verificar LKC
+
 Subida de tensión (signo +) y caída de tensión (signo -)
 
+Trayectoria 1
 
-![image](https://user-images.githubusercontent.com/117873786/201947384-f688488c-c7ef-4aa4-aeba-85412748e42f.png)
+![image](https://user-images.githubusercontent.com/117873786/202024448-c84ab9da-2811-46aa-aa22-a09e9e178122.png)
+
+Trayectoria 2
+
+![image](https://user-images.githubusercontent.com/117873786/202024377-02893a7f-449f-456a-8137-f054f809a85e.png)
+
+Trayectoria 3
+
+![image](https://user-images.githubusercontent.com/117873786/202024562-2e9bbeb5-4e7f-485b-a445-750553c47046.png)
 
 
-Verificar LKC
+
+
+1.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
+con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
+del nodo. Anote los resultados en la tabla 1.3.
+
+• Verificar LKC
 
 Todas las corrientes que ingresan son iguales a las que salen
 
 Nodo 1
 
-![image](https://user-images.githubusercontent.com/117873786/201931098-4abe04c6-b31b-4ee0-b62d-d7b69c63ae08.png)
+![image](https://user-images.githubusercontent.com/117873786/202024709-af9342c4-c1f7-47ca-9733-bdef073fef42.png)
 
 Nodo 2
 
-![image](https://user-images.githubusercontent.com/117873786/201931290-6918d21b-f317-488a-bfbd-e47ae9bf3ea9.png)
+![image](https://user-images.githubusercontent.com/117873786/202024837-45d3d012-ac20-45ff-aa39-1280c96498cb.png)
+
 
 PORCENTAJE DE INTENSIDADES
 
-![image](https://user-images.githubusercontent.com/117873786/201945027-cea919e1-a342-4f96-b0eb-2f545ae2135a.png)
+![image](https://user-images.githubusercontent.com/117873786/202024903-f18cfc8d-cacf-4f8a-be2f-3e3fa9ca6b11.png)
 
 TABLA DE DATOS:
 
@@ -247,7 +276,7 @@ https://drive.google.com/drive/folders/10qLzv9u7DETVaSKIMpnwDEa3PUO70hnT?usp=sha
 CONCLUSIONES
 
 
-Se logro demostrar en la práctica las dos leyes de Kirchhoff: las leyes de voltaje y corriente en los circuitos; para posteriormente aplicar el calculo con las leyes de ohm.
+Se logró demostrar en la práctica las dos leyes de Kirchhoff: las leyes de voltaje y corriente en los circuitos; para posteriormente aplicar el calculo con las leyes de ohm.
 
 En un circuito en serie, la corriente de cada elemento es la misma porque sigue una sola dirección, mientras que el voltaje es diferente, la suma algebraica de la fuente y la caída de voltaje también es siempre cero. .
 
