@@ -127,13 +127,13 @@ Intensidad de corriente electrica:
 
 ![image](https://user-images.githubusercontent.com/117873786/201842909-a1340efb-960b-472c-82ae-44c4766c0271.png)
 
-![image](https://user-images.githubusercontent.com/117873786/201843334-7f145bb2-02bf-4c24-8285-5fd883541182.png)
+![image](https://user-images.githubusercontent.com/117873786/201969850-f9990a59-84b5-45d4-8166-f923a32b8e52.png)
 
-![image](https://user-images.githubusercontent.com/117873786/201843424-fb6381f1-ca93-4921-a20c-9f8873313d34.png)
+![image](https://user-images.githubusercontent.com/117873786/201967385-32cdaf71-9acd-4839-b0f9-694a70f00f0c.png)
 
-![image](https://user-images.githubusercontent.com/117873786/201843504-c40eee1a-06ea-4a81-b7fc-6b551d47bf95.png)
+![image](https://user-images.githubusercontent.com/117873786/201967515-d5af192c-395d-43a0-a591-ca6a0ace6165.png)
 
-![image](https://user-images.githubusercontent.com/117873786/201843646-1de56e51-42b6-49b9-9b9f-38b0f239bf0c.png)
+![image](https://user-images.githubusercontent.com/117873786/201967577-c40aea8f-01b8-4463-b239-71d91e0c30b4.png)
 
 
 • CALCULO DE LAS TABLAS:
