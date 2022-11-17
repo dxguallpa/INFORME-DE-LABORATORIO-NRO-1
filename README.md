@@ -217,6 +217,8 @@ Porcentaje de error en los voltajes
 • Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
 
+![image](https://user-images.githubusercontent.com/117873786/202360364-d58e69aa-72c6-4a94-a861-4bc76e18f9f1.png)
+
 
 3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,
 considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
@@ -241,7 +243,7 @@ Trayectoria 3
 
 
 
-1.5.4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
+4. Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
 con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
 del nodo. Anote los resultados en la tabla 1.3.
 
@@ -264,14 +266,20 @@ PORCENTAJE DE INTENSIDADES
 
 TABLA DE DATOS:
 
-![image](https://user-images.githubusercontent.com/117873786/201947225-c4b18027-f28a-4e4c-9a0a-aac7295cbdb6.png)
+Tabla 1
+
+![image](https://user-images.githubusercontent.com/117873786/202360453-ac9bcdaa-11fc-4c1f-9d4d-cafa1643d284.png)
+
+
+Tabla 2
+
+![image](https://user-images.githubusercontent.com/117873786/202360494-affa9c1d-2e21-4901-a93e-affb9547712a.png)
 
 
 
 VIDEO
 
-https://drive.google.com/drive/folders/10qLzv9u7DETVaSKIMpnwDEa3PUO70hnT?usp=share_link
-
+https://uespe-my.sharepoint.com/:f:/g/personal/jarivera17_espe_edu_ec/EjRb5zrsl_JNsXZ5Rb6UchcBmM5hVf2LdZL260rCUylScw?e=0CU37y
 
 CONCLUSIONES
 
